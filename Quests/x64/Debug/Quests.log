@@ -1,0 +1,3 @@
+﻿  Quests.cpp
+C:\Users\fedna\source\repos\Quests\Quest3.cpp(8): warning C4715: vecFound: значение возвращается не при всех путях выполнения
+  Quests.vcxproj -> C:\Users\fedna\source\repos\Quests\x64\Debug\Quests.exe

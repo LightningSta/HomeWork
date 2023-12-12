@@ -1,0 +1,5 @@
+8
+dadada: 1
+reaad: 1
+read: 1
+the: 5
